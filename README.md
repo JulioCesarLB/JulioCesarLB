@@ -39,7 +39,7 @@
 
 ## ☎ Contact me and let's talk about the technological future ☎
   
-<a href="https://www.linkedin.com/in/juliocesarlb" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a  href="https://www.linkedin.com/in/juliocesarlb" target="_blank"><img height="40em" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <h2 align="center">🐍 The classic snake 🐍</h2>
   
