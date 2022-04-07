@@ -29,7 +29,14 @@
   <img align="center" alt="Julio-eclipse" height="35" width="40" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200">
   <img align="center" alt="Julio-vsc" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
 </div>
-  
+ 
+#### Otherthings:
+<div style="display: inline_block">
+  <img align="center" alt="Julio-blockchain" height="35" width="80" src="https://img.shields.io/badge/-Blockchain-yellow">
+  <img align="center" alt="Julio-vsc" height="35" width="120" src="https://img.shields.io/badge/-User%20Experience-blueviolet">
+</div>
+<br>
+
 ## Contact me and let's talk about the technological future
   
 <a href="https://www.linkedin.com/in/juliocesarlb" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
