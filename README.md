@@ -30,7 +30,7 @@
   <img align="center" alt="Julio-vsc" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
 </div>
  
-#### Otherthings:
+#### Other Things:
 <div style="display: inline_block">
   <img align="center" alt="Julio-blockchain" height="35" width="80" src="https://img.shields.io/badge/-Blockchain-yellow">
   <img align="center" alt="Julio-vsc" height="35" width="120" src="https://img.shields.io/badge/-User%20Experience-blueviolet">
