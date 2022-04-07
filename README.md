@@ -43,14 +43,13 @@
  
 <div> 
   
+<h2 align="center">The classic snake</h2>
   
-  ![Snake animation](https://github.com/JulioCesarLB/JulioCesarLB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JulioCesarLB/JulioCesarLB/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
-**JulioCesarLB/JulioCesarLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
