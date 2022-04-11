@@ -1,8 +1,8 @@
 # 🤖 Hi, I'm Julio. Whats' up? 👋🤖
 <div align="center">
   <a href="https://github.com/JulioCesarLB">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=JulioCesarLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarLB&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=JulioCesarLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarLB&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ## 📚 In search of knowledge, so I'm learning... 📚
