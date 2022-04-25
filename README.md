@@ -24,7 +24,7 @@
   <img align="center" alt="Julio-Spring" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
 </div>
  
-### ⚙IDLEs:
+### ⚙IDEs:
 <div style="display: inline_block">
   <img align="center" alt="Julio-eclipse" height="35" width="40" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200">
   <img align="center" alt="Julio-vsc" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
